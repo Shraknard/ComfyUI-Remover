@@ -1,4 +1,4 @@
 # ComfyUI-Remover
-Custom node for ComfyUI that makes transparent part of the image (face, background...)
+Custom node for ComfyUI that makes parts of the image transparent (face, background...)
 
 ![demo](./example/demo.png)
