@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-remover"
+description = "Custom node for ComfyUI that makes parts of the image transparent (face, background...)"
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["dlib", "pillow", "cv2", "rembg"]
+
+[project.urls]
+Repository = "https://github.com/Shraknard/ComfyUI-Remover"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Remover"
+Icon = ""
